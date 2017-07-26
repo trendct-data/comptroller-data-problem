@@ -6,12 +6,5 @@ Props to the comptroller's office for making these expenditures readily availabl
 
 I downloaded the data Friday, July 21 and the erronious files are preserved in this repo in the [data/](data) folder.
 
-Here you can see their web interface was reflecting the error, too.
+Their web interface was reflecting the error, too. Before and after screenshots are in the  [img/](img) folder.
 
-Before:
-
-[Before](img/BEFORE.png, "Before")
-
-After:
-
-[After](img/AFTER.png, "After")

@@ -10,8 +10,8 @@ Here you can see their web interface was reflecting the error, too.
 
 Before:
 
-[Before](img/BEFORE.png, "Before")
+![Before](img/BEFORE.png, "Before")
 
 After:
 
-[After](img/AFTER.png, "After")
+![After](img/AFTER.png, "After")
